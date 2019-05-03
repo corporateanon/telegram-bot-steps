@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^8.0.0",
+    "sleep-promise": "^8.0.1",
     "telegraf": "^3.29.0",
     "transmission-promise": "^1.1.2"
   },
